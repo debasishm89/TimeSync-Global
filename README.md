@@ -1,6 +1,12 @@
 # TimeSync Global: The 'Did I Wake You?' Detector
 
-A sophisticated time zone conversion tool built with vanilla JavaScript, HTML, and CSS that helps users schedule meetings across different time zones without accidentally waking up their colleagues.
+A simple time zone conversion tool built with vanilla JavaScript, HTML, and CSS that helps users schedule meetings across different time zones without accidentally waking up their colleagues.
+
+
+## Access the tool
+
+[Try Now](https://debasishm89.github.io/TimeSync-Global/)
+
 
 ## Features
 
@@ -11,10 +17,6 @@ A sophisticated time zone conversion tool built with vanilla JavaScript, HTML, a
 - **Intuitive Interface**: Simple slider control for selecting time in 15-minute increments
 - **Customizable**: Add/remove countries for comparison
 - **Persistent Settings**: Saves your preferences to local storage
-
-## Access the tool
-
-[Here](https://debasishm89.github.io/TimeSync-Global/)
 
 
 ## How to Use
