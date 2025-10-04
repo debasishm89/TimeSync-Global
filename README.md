@@ -12,6 +12,11 @@ A sophisticated time zone conversion tool built with vanilla JavaScript, HTML, a
 - **Customizable**: Add/remove countries for comparison
 - **Persistent Settings**: Saves your preferences to local storage
 
+## The tool is available here
+
+[Debasish Mandal](https://debasishm89.github.io/TimeSync-Global/)
+
+
 ## How to Use
 
 1. Select your current location from the dropdown menu
@@ -24,9 +29,7 @@ A sophisticated time zone conversion tool built with vanilla JavaScript, HTML, a
 
 - International business meetings
 - Scheduling calls with overseas clients or team members
-- Planning global events or webinars
-- Travel planning across time zones
-- Remote team management
+
 
 ## Technical Details
 
