@@ -12,9 +12,9 @@ A sophisticated time zone conversion tool built with vanilla JavaScript, HTML, a
 - **Customizable**: Add/remove countries for comparison
 - **Persistent Settings**: Saves your preferences to local storage
 
-## The tool is available here
+## Access the tool
 
-[Debasish Mandal](https://debasishm89.github.io/TimeSync-Global/)
+[Here](https://debasishm89.github.io/TimeSync-Global/)
 
 
 ## How to Use
