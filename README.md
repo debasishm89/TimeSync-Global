@@ -5,7 +5,7 @@ A simple time zone conversion tool built with vanilla JavaScript, HTML, and CSS 
 
 ## Access the tool
 
-[Try Now](https://debasishm89.github.io/TimeSync-Global/)
+[Try Now](https://timesync.debasish.in/)
 
 
 ## Features
